@@ -1,8 +1,9 @@
-//Enter from keyboard natural number n.
-// Print all possible triplets of integer numbers where all numbers in triplet are less than n 
-// and numbers in each triplet makes integer lengths for rectangular triangle.
-// Remember Pythagorean theorem c^2 = a^2 + b^2
-
+/*
+Enter from keyboard natural number n.
+Print all possible triplets of integer numbers where all numbers in triplet are less than n 
+and numbers in each triplet makes integer lengths for rectangular triangle.
+Remember Pythagorean theorem c^2 = a^2 + b^2
+*/
 #include <iostream>
 using namespace std;
 int main() {
